@@ -68,5 +68,11 @@ The simulated sensor currently reports approximately 24°C and 40% humidity. The
 
 Screenshots showing the simulation, Serial Monitor output, and ThingSpeak charts are included in the project repository.
 
+9. Student Information
+
+Student Name: amal dwekat
+
+University ID: 12323876
+
 
 
